@@ -33,7 +33,7 @@ I'm a drummer from Edinburgh, Scotland who has recently graduated CodeClan's Pro
 <div align="center">
   <a href="https://github.com/DarrenLackie/SmartPark">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=darrenlackie&repo=SmartPark&theme=radical" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://github.com/DarrenLackie/Emissions-Calculator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=darrenlackie&repo=Emissions-Calculator&theme=radical" />
   </a>
