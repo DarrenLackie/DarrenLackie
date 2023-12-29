@@ -2,7 +2,7 @@
 
 ### 👋 Hello, I'm Darren! :drum:
 
-I'm a drummer from Edinburgh, Scotland who has recently graduated CodeClan's Professional Software Development course - an immersive 16 week bootcamp.
+I'm a software developer and drummer from Edinburgh, Scotland who has recently graduated CodeClan's Professional Software Development course - an immersive 16 week bootcamp.
 
 ## Tech Stack
 
